@@ -1,0 +1,21 @@
+{
+  "name": "javaone-2017",
+  "version": "1.0.0",
+  "description": "Bootstrap demo",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Galante",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "browser-sync": "^2.10.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-sass": "^3.1.0",
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0",
+    "tooltip.js": "^1.1.5"
+  }
+}
